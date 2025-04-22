@@ -1,5 +1,5 @@
 function run () {
-    return "Hello from Chamod Plugin!";
+    return "Hello from sample Plugin!";
   };
 
 module.exports={run}

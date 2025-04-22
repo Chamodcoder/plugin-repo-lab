@@ -1,6 +1,6 @@
 [
   {
-    "name": "Chamod Plugin",
-    "entry": "./plugins/chamodplugins/plugin.js"
+    "name": "sample Plugin",
+    "entry": "./plugins/sampleplugins/plugin.js"
   }
 ]
