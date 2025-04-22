@@ -2,5 +2,9 @@
   {
     "name": "sample Plugin",
     "entry": "./plugins/sampleplugins/plugin.js"
+  },
+  {
+    "name": "chamod Plugin",
+    "entry": "./plugins/chamodplugins/plugin.js"
   }
 ]
